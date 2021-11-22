@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/travel-react/static/css/main.7486219b.chunk.css",
+    "main.js": "/travel-react/static/js/main.c7c67171.chunk.js",
+    "main.js.map": "/travel-react/static/js/main.c7c67171.chunk.js.map",
+    "runtime-main.js": "/travel-react/static/js/runtime-main.0a5d1083.js",
+    "runtime-main.js.map": "/travel-react/static/js/runtime-main.0a5d1083.js.map",
+    "static/css/2.ef5fbbb6.chunk.css": "/travel-react/static/css/2.ef5fbbb6.chunk.css",
+    "static/js/2.ea0ab83e.chunk.js": "/travel-react/static/js/2.ea0ab83e.chunk.js",
+    "static/js/2.ea0ab83e.chunk.js.map": "/travel-react/static/js/2.ea0ab83e.chunk.js.map",
+    "static/js/3.d54d02f2.chunk.js": "/travel-react/static/js/3.d54d02f2.chunk.js",
+    "static/js/3.d54d02f2.chunk.js.map": "/travel-react/static/js/3.d54d02f2.chunk.js.map",
+    "index.html": "/travel-react/index.html",
+    "static/css/2.ef5fbbb6.chunk.css.map": "/travel-react/static/css/2.ef5fbbb6.chunk.css.map",
+    "static/css/main.7486219b.chunk.css.map": "/travel-react/static/css/main.7486219b.chunk.css.map",
+    "static/js/2.ea0ab83e.chunk.js.LICENSE.txt": "/travel-react/static/js/2.ea0ab83e.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/travel-react/static/media/bg-img.5fbc7862.jpg",
+    "static/media/all.min.css": "/travel-react/static/media/fa-solid-900.eeccf4f6.woff",
+    "static/media/logo.24be3e8a.svg": "/travel-react/static/media/logo.24be3e8a.svg",
+    "static/media/london.973457a9.jpg": "/travel-react/static/media/london.973457a9.jpg",
+    "static/media/maldive.7042eb5a.jpg": "/travel-react/static/media/maldive.7042eb5a.jpg",
+    "static/media/mount.b6da3c7b.png": "/travel-react/static/media/mount.b6da3c7b.png",
+    "static/media/myanmar.d6fa3755.jpg": "/travel-react/static/media/myanmar.d6fa3755.jpg",
+    "static/media/newzeland.241c78b7.jpg": "/travel-react/static/media/newzeland.241c78b7.jpg",
+    "static/media/paris.cdb5b207.jpg": "/travel-react/static/media/paris.cdb5b207.jpg",
+    "static/media/profile_1.1eedd601.jpg": "/travel-react/static/media/profile_1.1eedd601.jpg",
+    "static/media/singapore.83ae81e1.jpg": "/travel-react/static/media/singapore.83ae81e1.jpg",
+    "static/media/slick-theme.css": "/travel-react/static/media/slick.c94f7671.ttf",
+    "static/media/temple.2257b51e.png": "/travel-react/static/media/temple.2257b51e.png",
+    "static/media/travel-things.ce196310.png": "/travel-react/static/media/travel-things.ce196310.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a5d1083.js",
+    "static/css/2.ef5fbbb6.chunk.css",
+    "static/js/2.ea0ab83e.chunk.js",
+    "static/css/main.7486219b.chunk.css",
+    "static/js/main.c7c67171.chunk.js"
+  ]
+}
